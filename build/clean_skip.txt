@@ -1,0 +1,3 @@
+# Item IDs whose photo should NOT get an automatic background cleanup (one per line)
+SH-0017
+SH-0027
