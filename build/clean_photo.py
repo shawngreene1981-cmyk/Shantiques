@@ -13,6 +13,12 @@ m[cv2.dilate((a>15).astype(np.uint8), np.ones((k,k)))==0] = cv2.GC_BGD
 bg,fg = np.zeros((1,65)),np.zeros((1,65))
 cv2.grabCut(img, m, None, bg, fg, 4, cv2.GC_INIT_WITH_MASK)
 alpha = np.where((m==1)|(m==3),255,0).astype(np.uint8)
+# drop small stray specks (keep pieces at least 3% the size of the largest)
+n,lab,st,_ = cv2.connectedComponentsWithStats((alpha>0).astype(np.uint8),8)
+if n>2:
+    big = st[1:,cv2.CC_STAT_AREA].max()
+    for i in range(1,n):
+        if st[i,cv2.CC_STAT_AREA] < 0.03*big: alpha[lab==i]=0
 alpha = cv2.GaussianBlur(alpha,(3,3),0)
 # place on soft cream background, centered with margin
 rgba = np.dstack([np.array(im), alpha])
