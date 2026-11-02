@@ -1,0 +1,4 @@
+# Netlify publishes the finished site in /site. No build step runs on Netlify:
+# the site is built from the tracker (see build/) and committed ready to serve.
+[build]
+  publish = "site"

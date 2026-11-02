@@ -1,0 +1,5 @@
+data/photos/
+build/__pycache__/
+*.pyc
+.DS_Store
+desktop.ini

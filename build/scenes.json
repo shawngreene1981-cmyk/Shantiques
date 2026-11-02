@@ -1,0 +1,246 @@
+[
+ {
+  "id": "shelf-1",
+  "title": "Peony wall shelf",
+  "img": "img/shelf-1.jpg",
+  "note": "Each numbered piece is sold separately (the ivy stays with us). Tap a tag for details.",
+  "spots": [
+   {
+    "n": 1,
+    "x": 27.8,
+    "y": 44.9,
+    "name": "Gold filigree frame with peony sketch",
+    "category": "Decor",
+    "price": null,
+    "id": "SH-0004",
+    "tx": 25,
+    "ty": 69.5
+   },
+   {
+    "n": 2,
+    "x": 66.2,
+    "y": 42.4,
+    "name": "Black tole tray with hand-painted peonies",
+    "category": "Decor",
+    "price": null,
+    "id": "SH-0005",
+    "tx": 66,
+    "ty": 69.5
+   },
+   {
+    "n": 3,
+    "x": 51.6,
+    "y": 62.5,
+    "name": "Two-tier wooden wall shelf",
+    "category": "Furniture",
+    "price": null,
+    "id": "SH-0006",
+    "tx": 45,
+    "ty": 69.5
+   },
+   {
+    "n": 4,
+    "x": 20.5,
+    "y": 80.2,
+    "name": "Floral china plate, gold rim",
+    "category": "Glassware",
+    "price": null,
+    "id": "SH-0007",
+    "tx": 20.5,
+    "ty": 96.5
+   },
+   {
+    "n": 5,
+    "x": 43.7,
+    "y": 81.1,
+    "name": "Small brass pitcher",
+    "category": "Decor",
+    "price": null,
+    "id": "SH-0008",
+    "tx": 41,
+    "ty": 96.5
+   },
+   {
+    "n": 6,
+    "x": 59.8,
+    "y": 80.2,
+    "name": "Ceramic turkey harvest plate",
+    "category": "Seasonal",
+    "price": null,
+    "id": "SH-0009",
+    "tx": 61,
+    "ty": 96.5
+   },
+   {
+    "n": 7,
+    "x": 81.3,
+    "y": 79.5,
+    "name": "Scalloped floral china plate",
+    "category": "Glassware",
+    "price": null,
+    "id": "SH-0010",
+    "tx": 81.3,
+    "ty": 96.5
+   }
+  ]
+ },
+ {
+  "id": "cubby",
+  "title": "Cubby shelf",
+  "img": "img/scene-cubby.jpg",
+  "note": "Each numbered piece is sold separately, shelf included. Tap a tag for details.",
+  "spots": [
+   {
+    "n": 1,
+    "x": 51.3,
+    "y": 55.5,
+    "id": "SH-0012",
+    "name": "Wooden cubby wall shelf with heart cutout and pegs",
+    "category": "Furniture",
+    "price": null,
+    "tx": 51.3,
+    "ty": 90.5
+   },
+   {
+    "n": 2,
+    "x": 18.6,
+    "y": 44.0,
+    "id": "SH-0013",
+    "name": "Pair of striped lighthouse salt and pepper shakers",
+    "category": "Glassware",
+    "price": null,
+    "tx": 16.9,
+    "ty": 7.0
+   },
+   {
+    "n": 3,
+    "x": 37.2,
+    "y": 37.0,
+    "id": "SH-0014",
+    "name": "Goose pedestal mug",
+    "category": "Glassware",
+    "price": null,
+    "tx": 36.6,
+    "ty": 7.0
+   },
+   {
+    "n": 4,
+    "x": 51.8,
+    "y": 38.5,
+    "id": "SH-0015",
+    "name": "Green glass hen on nest dish",
+    "category": "Glassware",
+    "price": null,
+    "tx": 51.4,
+    "ty": 7.0
+   },
+   {
+    "n": 5,
+    "x": 66.8,
+    "y": 34.5,
+    "id": "SH-0016",
+    "name": "Ceramic goose figurine with blue bow",
+    "category": "Decor",
+    "price": null,
+    "tx": 66.7,
+    "ty": 7.0
+   },
+   {
+    "n": 6,
+    "x": 80.6,
+    "y": 57.5,
+    "id": "SH-0017",
+    "name": "Set of 3 embroidered bird mini frames",
+    "category": "Decor",
+    "price": null,
+    "tx": 82.5,
+    "ty": 84.0
+   },
+   {
+    "n": 7,
+    "x": 86.7,
+    "y": 37.0,
+    "id": "SH-0018",
+    "name": "Small green ceramic crock",
+    "category": "Decor",
+    "price": null,
+    "tx": 86.3,
+    "ty": 7.0
+   }
+  ]
+ },
+ {
+  "id": "tall",
+  "title": "Heart shelf",
+  "img": "img/scene-tall.jpg",
+  "note": "Each numbered piece is sold separately, shelf included. Tap a tag for details.",
+  "spots": [
+   {
+    "n": 1,
+    "x": 50,
+    "y": 92.5,
+    "id": "SH-0019",
+    "name": "Three-tier wooden wall shelf with heart cutout",
+    "category": "Furniture",
+    "price": null,
+    "tx": 50,
+    "ty": 97.5
+   },
+   {
+    "n": 2,
+    "x": 48.6,
+    "y": 14.3,
+    "id": "SH-0020",
+    "name": "Pair of brass quail figurines",
+    "category": "Decor",
+    "price": null,
+    "tx": 50,
+    "ty": 32
+   },
+   {
+    "n": 3,
+    "x": 32.3,
+    "y": 53.2,
+    "id": "SH-0021",
+    "name": "Blue floral porcelain watering can creamer",
+    "category": "Glassware",
+    "price": null,
+    "tx": 25,
+    "ty": 42
+   },
+   {
+    "n": 4,
+    "x": 68.4,
+    "y": 51.8,
+    "id": "SH-0022",
+    "name": "Brass spittoon",
+    "category": "Decor",
+    "price": null,
+    "tx": 72,
+    "ty": 40.5
+   },
+   {
+    "n": 5,
+    "x": 42.0,
+    "y": 82.9,
+    "id": "SH-0023",
+    "name": "Carved wooden duck decoy",
+    "category": "Decor",
+    "price": null,
+    "tx": 30,
+    "ty": 71
+   },
+   {
+    "n": 6,
+    "x": 65.6,
+    "y": 84.6,
+    "id": "SH-0024",
+    "name": "Small painted mallard duck",
+    "category": "Decor",
+    "price": null,
+    "tx": 70,
+    "ty": 71
+   }
+  ]
+ }
+]
