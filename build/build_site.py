@@ -71,7 +71,8 @@ def photo(item_id):
     if not os.path.exists(src):
         src = P("data", "photos", f"{item_id}.jpg")
     if not os.path.exists(src):
-        return None
+        # no new photo staged: keep the one already on the site, if any
+        return f"img/{item_id}.jpg" if os.path.exists(out) else None
     im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
     im.thumbnail((900, 900))
     im.save(out, "JPEG", quality=82, optimize=True)
