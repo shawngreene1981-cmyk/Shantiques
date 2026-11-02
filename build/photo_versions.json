@@ -1,0 +1,4 @@
+{
+ "_note": "Drive modifiedTime of each item photo already used on the site. A Drive photo newer than this (or than _cutoff if the item is not listed) is a reshoot.",
+ "_cutoff": "2026-11-02T18:00:00Z"
+}
