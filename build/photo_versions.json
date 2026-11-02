@@ -2,5 +2,12 @@
  "_note": "Drive modifiedTime of each item photo already used on the site. A Drive photo newer than this (or than _cutoff if the item is not listed) is a reshoot.",
  "_cutoff": "2026-11-02T18:00:00Z",
  "SH-0040": "2026-11-02T18:47:57.147Z",
- "SH-0041": "2026-11-02T18:53:44.364Z"
+ "SH-0041": "2026-11-02T18:53:44.364Z",
+ "SH-0033": "2026-11-02T19:05:00Z",
+ "SH-0034": "2026-11-02T19:05:00Z",
+ "SH-0035": "2026-11-02T19:05:00Z",
+ "SH-0036": "2026-11-02T19:05:00Z",
+ "SH-0037": "2026-11-02T19:05:00Z",
+ "SH-0038": "2026-11-02T19:05:00Z",
+ "SH-0039": "2026-11-02T19:05:00Z"
 }
