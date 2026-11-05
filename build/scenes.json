@@ -98,74 +98,107 @@
     "name": "Wooden cubby wall shelf with heart cutout and pegs",
     "category": "Furniture",
     "price": null,
-    "tx": 51.3,
-    "ty": 90.5
+    "tx": 36,
+    "ty": 90
    },
    {
     "n": 2,
-    "x": 18.6,
-    "y": 44.0,
+    "x": 12.4,
+    "y": 42,
     "id": "SH-0013",
     "name": "Pair of striped lighthouse salt and pepper shakers",
     "category": "Glassware",
     "price": null,
-    "tx": 16.9,
-    "ty": 7.0
+    "tx": 7,
+    "ty": 56
    },
    {
-    "n": 3,
+    "id": "SH-0043",
+    "x": 25,
+    "y": 41,
+    "tx": 19,
+    "ty": 70,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 3
+   },
+   {
+    "n": 4,
     "x": 37.2,
     "y": 37.0,
     "id": "SH-0014",
     "name": "Goose pedestal mug",
     "category": "Glassware",
     "price": null,
-    "tx": 36.6,
-    "ty": 7.0
+    "tx": 33,
+    "ty": 7
    },
    {
-    "n": 4,
+    "n": 5,
     "x": 51.8,
     "y": 38.5,
     "id": "SH-0015",
     "name": "Green glass hen on nest dish",
     "category": "Glassware",
     "price": null,
-    "tx": 51.4,
-    "ty": 7.0
+    "tx": 49,
+    "ty": 7
    },
    {
-    "n": 5,
+    "n": 6,
     "x": 66.8,
     "y": 34.5,
     "id": "SH-0016",
     "name": "Ceramic goose figurine with blue bow",
     "category": "Decor",
     "price": null,
-    "tx": 66.7,
-    "ty": 7.0
+    "tx": 65,
+    "ty": 7
    },
    {
-    "n": 6,
-    "x": 80.6,
-    "y": 57.5,
+    "n": 7,
+    "x": 78,
+    "y": 36,
     "id": "SH-0017",
     "name": "Set of 3 embroidered bird mini frames",
     "category": "Decor",
     "price": null,
-    "tx": 82.5,
-    "ty": 84.0
+    "tx": 81,
+    "ty": 7
    },
    {
-    "n": 7,
+    "id": "SH-0045",
+    "x": 77,
+    "y": 58,
+    "tx": 64,
+    "ty": 82,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 8
+   },
+   {
+    "id": "SH-0046",
+    "x": 83.5,
+    "y": 58,
+    "tx": 82,
+    "ty": 82,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 9
+   },
+   {
+    "n": 10,
     "x": 86.7,
     "y": 37.0,
     "id": "SH-0018",
     "name": "Small green ceramic crock",
     "category": "Decor",
     "price": null,
-    "tx": 86.3,
-    "ty": 7.0
+    "tx": 84,
+    "ty": 46
    }
   ]
  },
@@ -188,17 +221,28 @@
    },
    {
     "n": 2,
-    "x": 48.6,
-    "y": 14.3,
+    "x": 27,
+    "y": 17,
     "id": "SH-0020",
     "name": "Pair of brass quail figurines",
     "category": "Decor",
     "price": null,
-    "tx": 50,
-    "ty": 32
+    "tx": 15,
+    "ty": 30
    },
    {
-    "n": 3,
+    "id": "SH-0044",
+    "x": 67,
+    "y": 14,
+    "tx": 72,
+    "ty": 29,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 3
+   },
+   {
+    "n": 4,
     "x": 32.3,
     "y": 53.2,
     "id": "SH-0021",
@@ -209,7 +253,7 @@
     "ty": 42
    },
    {
-    "n": 4,
+    "n": 5,
     "x": 68.4,
     "y": 51.8,
     "id": "SH-0022",
@@ -220,7 +264,7 @@
     "ty": 40.5
    },
    {
-    "n": 5,
+    "n": 6,
     "x": 42.0,
     "y": 82.9,
     "id": "SH-0023",
@@ -231,7 +275,7 @@
     "ty": 71
    },
    {
-    "n": 6,
+    "n": 7,
     "x": 65.6,
     "y": 84.6,
     "id": "SH-0024",
@@ -240,6 +284,69 @@
     "price": null,
     "tx": 70,
     "ty": 71
+   }
+  ]
+ },
+ {
+  "id": "trinket",
+  "title": "Little house shelf",
+  "img": "img/scene-trinket.jpg",
+  "note": "Each numbered piece is sold separately, shelf included. Tap a tag for details.",
+  "spots": [
+   {
+    "id": "SH-0040",
+    "x": 49.3,
+    "y": 87.5,
+    "tx": 50,
+    "ty": 96,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 1
+   },
+   {
+    "id": "SH-0047",
+    "x": 76.4,
+    "y": 43.7,
+    "tx": 88,
+    "ty": 32,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 2
+   },
+   {
+    "id": "SH-0048",
+    "x": 17.6,
+    "y": 78.3,
+    "tx": 11,
+    "ty": 60,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 3
+   },
+   {
+    "id": "SH-0049",
+    "x": 39.9,
+    "y": 74.2,
+    "tx": 38,
+    "ty": 56,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 4
+   },
+   {
+    "id": "SH-0050",
+    "x": 67.2,
+    "y": 70.3,
+    "tx": 64,
+    "ty": 56,
+    "name": "",
+    "category": "",
+    "price": null,
+    "n": 5
    }
   ]
  }
